@@ -9,6 +9,7 @@ makeLink.addEventListener("click", async () => {
     target: { tabId: tab.id },
     func: () => {
       console.log(`Inside button click`);
+      //DO WORK HERE
     },
   });
 });
