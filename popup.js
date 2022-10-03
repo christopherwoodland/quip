@@ -1,7 +1,6 @@
-
-
 async function createLinks() {
   alert('HEY MAN!')
+  //DO WORK HERE
 }
 
 async function getCurrentTab() {
